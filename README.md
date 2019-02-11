@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Maze App
+
+The Maze app is a simple game, build using JavaScript, to help beginners programmers learn the art of programming.
 
 ## Available Scripts
 
